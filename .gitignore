@@ -1,0 +1,4 @@
+config.py
+__pycashe__/
+output/
+.DS_Store
